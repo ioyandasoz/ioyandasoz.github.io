@@ -606,7 +606,7 @@ h1, h2, h3, h4, h5,
   color: #000; }
   .section-title-underline span {
     display: inline-block;
-    border-bottom: 4px solid #51be78; }
+    border-bottom: 4px solid #ff0000; }
   .section-title-underline.style-2 {
     color: #fff; }
     .section-title-underline.style-2 span {
