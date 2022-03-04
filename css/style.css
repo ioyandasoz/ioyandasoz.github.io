@@ -1,4 +1,10 @@
 /* Base */
+.price-hudomo{
+  text-align: center;
+  color: #183661;
+  padding: 10px 0;
+  font-size: 36px;
+}
 body {
   line-height: 1.7;
   color: gray;
